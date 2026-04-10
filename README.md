@@ -4,6 +4,7 @@
 A simple and interactive web-based analytics dashboard built using HTML, CSS, JavaScript, and Chart.js.
 This project simulates a retail dashboard with login authentication and visual insights.
 
+
 [Live Demo]:
 https://sabanaaasmi.github.io/FreshMart-Supermarket---Sales-Inventory-Analytics-/
 
