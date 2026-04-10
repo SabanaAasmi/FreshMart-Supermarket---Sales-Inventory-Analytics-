@@ -6,7 +6,7 @@ This project simulates a retail dashboard with login authentication and visual i
 
 
 [Live Demo]:
-https://sabanaaasmi.github.io/FreshMart-Supermarket---Sales-Inventory-Analytics-/
+https://sabanaaasmi.github.io/FreshMart-Supermarket---Sales-Inventory-Analytics-/ 
 
 ---
 
