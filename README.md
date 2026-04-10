@@ -75,6 +75,8 @@ FreshMart-Dashboard/
 | Password | 1234  |
 
 ---
+[Live Demo]:
+https://sabanaaasmi.github.io/FreshMart-Supermarket---Sales-Inventory-Analytics-/
 
 ## Dashboard Preview
 
