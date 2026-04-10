@@ -1,7 +1,6 @@
 # FreshMart Analytics Dashboard
 
-[Live Demo]:
-https://sabanaaasmi.github.io/FreshMart-Supermarket---Sales-Inventory-Analytics-/
+[Live Demo]https://sabanaaasmi.github.io/FreshMart-Supermarket---Sales-Inventory-Analytics-/
 
 ## Overview
 
